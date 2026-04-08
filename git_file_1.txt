@@ -1,3 +1,5 @@
 [Master] This is in master branch
 
 [Master] This is in another master branch
+
+[Master] Solcve the Another Bug
