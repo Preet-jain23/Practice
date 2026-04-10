@@ -10,5 +10,6 @@
 [Bug Related] Bug No 05 Not  Fixed
 
 
+[Bug Related] Bug No 06 Fixed
 
 
