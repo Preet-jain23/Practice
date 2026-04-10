@@ -14,3 +14,5 @@
 
 [Bug Related] Bug No 07 Fixed
 
+[Bug Related] Bug No 08 Fixed
+
