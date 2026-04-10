@@ -7,3 +7,5 @@
 [bug_fixed] Some New Are Bug are created after the production
 
 [bug_fixed] At Line no 170 Problem is their
+
+[bug_fixed] Bug Resolved 
