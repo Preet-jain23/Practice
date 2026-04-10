@@ -8,4 +8,6 @@
 
 [bug_fixed] At Line no 170 Problem is their
 
-[bug_fixed] Bug Resolved 
+[bug_fixed] Bug Resolved
+
+[bug_fixed] Know Bug are Resolved Update the firmware
